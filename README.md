@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="assets/sunny.png" width="120" alt="" />
+</p>
+
 # Sunny — asistente RPA determinista local
 
 Asistente que convierte órdenes en lenguaje natural en acciones reales sobre el sistema operativo, sin que el modelo de lenguaje controle el equipo en ningún momento.
